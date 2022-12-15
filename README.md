@@ -1,1 +1,1 @@
-# SQL-Injection-Cheat-Sheet
+# SQL Injection Cheat Sheet
